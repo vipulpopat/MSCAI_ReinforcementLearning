@@ -2,6 +2,8 @@
 
 This project is for Reinforcement Learning beginners to explore & exploit domains, algorithms, frameworks and tools.
 
+## The Starter Tool Kit
+
 * https://www.youtube.com/watch?v=e3Jy2vShroE
 * https://gym.openai.com/docs/
 * https://www.tensorflow.org/tutorials/
