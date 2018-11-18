@@ -5,5 +5,5 @@
 - A pull request needs at least 1 approval before the merge to the master.
 - You must add conributions or references if you use other people's code or quotations from books or articles etc. 
 Sometimes, a link in your source code maybe sufficient.
-- You must not use any copyright protected or patented source code or algorithms whitout permission granted by the author.
+- You must not use any copyright protected or patented source code or algorithms without a permission granted by the author.
 
